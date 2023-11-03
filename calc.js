@@ -1,1 +1,1 @@
-export const calc = () => 3 * 4;
+export const getResult = () => "RESULT";
